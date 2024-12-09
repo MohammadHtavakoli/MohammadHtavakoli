@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning about Django <br>💬 Ask me about python 
+🌱 I’m currently learning about Django <br> 
 
 
 ## 🌐 Socials:
