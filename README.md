@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I’m currently working on an image processing platform using Django and OpenCV.<br>👯 I’m looking to collaborate on Django projects, especially those involving web apps, REST APIs.<br>🤝 I’m looking for help with advanced Django development.<br>🌱 I’m currently learning advanced Django development.<br>⚡ Fun fact: I enjoy building things from scratch, whether it’s a web app, an Arduino project, or a random side experiment! 🚀😄<br><br>
+<br>🔭 I’m currently learning about advance programming in django and python.<br>👯 I’m looking to collaborate on Django projects, especially those involving web apps, REST APIs.<br>🤝 I’m looking for help with advanced Django development.<br>🌱 I’m currently learning advanced Django development.<br>⚡ Fun fact: I enjoy building things from scratch, whether it’s a web app, an Arduino project, or a random side experiment! 🚀😄<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohammadh_tk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/mohammadhasan-tavakoli-3551b6215) 
